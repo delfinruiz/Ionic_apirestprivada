@@ -1,0 +1,7 @@
+{
+  "name": "apirestprivada",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
